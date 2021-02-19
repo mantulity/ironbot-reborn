@@ -22,3 +22,6 @@ The Easy Way:
 Run on Repl.it:
 ```
 <p><a href="https://generatestring.tesbot07.repl.run"> <img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="Generate String Session" /></a></p>
+
+
+## This free
